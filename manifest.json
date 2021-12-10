@@ -1,0 +1,38 @@
+{
+  "name": "RPP1Lembar",
+  "short_name": "RPP1Lembar",
+  "start_url": "https://rpp1lembar.xyz/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Kurikulum Paradigma Baru,Kurikulum Prototype, RPP 1 Lembar Lengkap, Soal dan Pembahasan Soal",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-EVwwwiOEkwU/YbOgy3VMpKI/AAAAAAAANcQ/q9pIU3qD8rQHWqh1qg-c_ENX0-KxEat_QCNcBGAsYHQ/s45/rpp1lembar.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-EVwwwiOEkwU/YbOgy3VMpKI/AAAAAAAANcQ/q9pIU3qD8rQHWqh1qg-c_ENX0-KxEat_QCNcBGAsYHQ/s72/rpp1lembar.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-EVwwwiOEkwU/YbOgy3VMpKI/AAAAAAAANcQ/q9pIU3qD8rQHWqh1qg-c_ENX0-KxEat_QCNcBGAsYHQ/s96/rpp1lembar.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-EVwwwiOEkwU/YbOgy3VMpKI/AAAAAAAANcQ/q9pIU3qD8rQHWqh1qg-c_ENX0-KxEat_QCNcBGAsYHQ/s144/rpp1lembar.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-EVwwwiOEkwU/YbOgy3VMpKI/AAAAAAAANcQ/q9pIU3qD8rQHWqh1qg-c_ENX0-KxEat_QCNcBGAsYHQ/s168/rpp1lembar.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-EVwwwiOEkwU/YbOgy3VMpKI/AAAAAAAANcQ/q9pIU3qD8rQHWqh1qg-c_ENX0-KxEat_QCNcBGAsYHQ/s192/rpp1lembar.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-EVwwwiOEkwU/YbOgy3VMpKI/AAAAAAAANcQ/q9pIU3qD8rQHWqh1qg-c_ENX0-KxEat_QCNcBGAsYHQ/s512/rpp1lembar.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
